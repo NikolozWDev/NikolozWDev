@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Nikoloz Gigiashvili</h1>
+<p align="center">
+Full-Stack Software Engineer • Scalable Web Systems • Production-Ready Architectures
+</p>
 
-<!--
-**NikolozWDev/NikolozWDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build modern full-stack applications with a strong focus on scalability, clean architecture, and long-term maintainability.
+
+My work centers around REST API design, secure authentication systems, modular frontend structures, and production-style deployments.
+
+I approach projects with an engineering mindset — prioritizing system design, performance, and real-world reliability over quick prototypes.
+
+---
+
+## Core Stack
+
+**Frontend**  
+React · JavaScript (ES6+) · Responsive UI Architecture  
+
+**Backend**  
+Django · Django REST Framework · Node.js  
+
+**Database & Infrastructure**  
+PostgreSQL · SQL · SQLite · JWT Authentication · Production Deployment
+
+---
+
+## Engineering Focus
+
+- System Design & Software Architecture  
+- Secure Authentication & Authorization  
+- RESTful API Development  
+- Clean Code & Maintainability  
+- Scalable Application Structure  
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikolozWDev&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolozWDev&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikoloz-gigiashvili/">LinkedIn</a>
+</p>
