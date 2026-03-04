@@ -37,19 +37,3 @@ PostgreSQL · SQL · SQLite · JWT Authentication · Production Deployment
 - Scalable Application Structure  
 
 ---
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolozWDev&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolozWDev&layout=compact&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikoloz-gigiashvili/">LinkedIn</a>
-</p>
