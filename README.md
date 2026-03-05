@@ -6,7 +6,7 @@ Full-Stack Software Engineer • Scalable Web Systems • Production-Ready Archi
 
 ## 📬 Contact
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px">
 
 <a href="https://www.linkedin.com/in/nikoloz-gigiashvili/">
   <img src="https://img.shields.io/badge/LinkedIn-Nikoloz%20Gigiashvili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
