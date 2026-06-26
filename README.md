@@ -1,7 +1,7 @@
 <h1 align="center">Nikoloz Gigiashvili</h1>
 
 <p align="center">
-Full-Stack Software Engineer • Scalable Web Systems • Production-Ready Architectures
+Full-Stack Software Engineer • Scalable Web Systems • REST APIs
 </p>
 
 <p align="center">
@@ -36,13 +36,16 @@ I approach development with an **engineering mindset** — prioritizing system d
 ## 🛠 Tech Stack
 
 ### Frontend
-React • JavaScript (ES6+) • Responsive UI Architecture
+React, Javascript/TypeScript, Redux, Zustand, Responsive UI Architecture
 
 ### Backend
-Django • Django REST Framework • Node.js
+Python, Django, Django REST Framework, Node.js
 
 ### Database & Infrastructure
-PostgreSQL • SQL • SQLite • JWT Authentication
+PostgreSQL, SQL, SQLite, JWT Authentication, Docker, Nginx, CI/CD
+
+### Testing
+Jest, PyTest, Postman
 
 ---
 
