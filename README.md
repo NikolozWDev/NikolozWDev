@@ -22,18 +22,15 @@ Full-Stack Software Engineer • Scalable Web Systems • REST APIs
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I build **modern full-stack web applications** with a strong focus on  
-**clean architecture, scalability, and real-world reliability**.
+I build web systems. backend architecture, REST APIs, database design, and responsive frontends. Whole systems.
 
-My work centers around designing structured backend systems, modular frontends, and production-style applications that simulate real engineering environments.
-
-I approach development with an **engineering mindset** — prioritizing system design, maintainability, and performance over quick prototypes.
+I test what I write. I deploy what I build. I write code that ships.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 React, Javascript/TypeScript, Redux, Zustand, Responsive UI Architecture
@@ -49,7 +46,7 @@ Jest, PyTest, Postman
 
 ---
 
-## 🧠 Engineering Focus
+##  Engineering Focus
 
 • Software Architecture  
 • Scalable Web Applications  
