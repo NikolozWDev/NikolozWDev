@@ -22,36 +22,27 @@ Full-Stack Software Engineer • Scalable Web Systems • REST APIs
 
 ---
 
-##  About Me
+## About Me
 
-I build web systems. backend architecture, REST APIs, database design, and responsive frontends. Whole systems.
+I'm a self-taught software engineer who learns by building.
 
-I test what I write. I deploy what I build. I write code that ships.
+I like taking an idea, turning it into a working system, and figuring out everything in between, architecture, implementation, testing, deployment, and the problems that come with it.
 
----
-
-##  Tech Stack
-
-### Frontend
-React, Javascript/TypeScript, Redux, Zustand, Responsive UI Architecture
-
-### Backend
-Python, Django, Django REST Framework, Node.js
-
-### Database & Infrastructure
-PostgreSQL, SQL, SQLite, JWT Authentication, Docker, Nginx, CI/CD
-
-### Testing
-Jest, PyTest, Postman
+I don't just want code that works.  
+I want to understand why it works.
 
 ---
 
-##  Engineering Focus
+## What I Build
 
-• Software Architecture  
-• Scalable Web Applications  
-• Secure Authentication & Authorization  
-• RESTful API Design  
-• Clean Code & Maintainability  
+• Full-stack web applications  
+• Product-focused projects  
+• Backend systems and APIs  
+• Interactive web experiences  
+• Engineering experiments and prototypes  
 
 ---
+
+## How I Work
+
+**Build --> Test --> Break --> Understand --> Improve --> Ship**
